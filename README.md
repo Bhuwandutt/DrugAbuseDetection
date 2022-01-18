@@ -1,2 +1,2 @@
 # DrugAbuseDetection
-illicit Drug Abuse detection Using Computer Vision
+illicit Drug Abuse detection using Computer Vision
